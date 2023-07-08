@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="style.css">
-
+<body>
 <h1 align="center">Hi 👋, I'm Paweł Centkowski</h1>
 <h3 align="center">A Student of digital side of force</h3>
 
@@ -22,3 +22,4 @@
 
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PawelCentkowski&" alt="PawelCentkowski" /></p>-->
+</body>
