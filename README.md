@@ -3,7 +3,7 @@
 </head>
 <body>
 <h1 align="center">Hi 👋, I'm Paweł Centkowski</h1>
-<h3 align="center">Student of digital side of force</h3>
+<h3 align="center">Student of the digital side of force</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=PawelCentkowski&label=Profile%20views&color=0e75b6&style=flat" alt="PawelCentkowski" /> </p>-->
 
