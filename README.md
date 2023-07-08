@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PawelCentkowski&show_icons=true&locale=en" alt="PawelCentkowski" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PawelCentkowski&" alt="PawelCentkowski" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PawelCentkowski&" alt="PawelCentkowski" /></p>-->
