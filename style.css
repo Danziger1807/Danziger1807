@@ -1,3 +1,8 @@
 p{
 background-color:black;
 }
+#A {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
